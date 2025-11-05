@@ -1,0 +1,10 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI To-Do app using Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
